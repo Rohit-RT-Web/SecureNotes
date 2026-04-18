@@ -7,7 +7,7 @@ body {
   font-family: Arial, sans-serif;
   background: linear-gradient(-45deg, #667eea, #764ba2, #6b8cff, #8f44fd);
   background-size: 400% 400%;
-  /* animation: gradientBG 10s ease infinite; */
+  animation: gradientBG 10s ease infinite;
 }
 
 /* Background animation */
